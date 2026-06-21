@@ -1,0 +1,49 @@
+{
+  "users": {},
+  "activities": [
+    {
+      "session_id": "eco_1781370655400_bozvl0w",
+      "type": "calculation",
+      "data": {
+        "total_kg_per_year": 8978.6,
+        "total_tonnes": 8.98,
+        "breakdown": {
+          "transport": {
+            "total": 4209.4,
+            "car": 1638.0,
+            "flights": 2340.0,
+            "public_transport": 231.4
+          },
+          "energy": {
+            "total": 2062.8,
+            "electricity": 838.8,
+            "gas": 1224.0
+          },
+          "food": {
+            "total": 1975.0,
+            "diet": 1825.0,
+            "waste": 150.0
+          },
+          "lifestyle": {
+            "total": 731.4,
+            "clothing": 668.0,
+            "shopping": 24.0,
+            "streaming": 39.4
+          }
+        },
+        "comparisons": {
+          "vs_global_avg_pct": 124.5,
+          "vs_us_avg_pct": -35.9,
+          "global_avg_kg": 4000,
+          "us_avg_kg": 14000
+        },
+        "eco_score": 67,
+        "trees_to_offset": 428.0,
+        "session_id": "eco_1781370655400_bozvl0w",
+        "timestamp": "2026-06-13T17:21:23.291203"
+      },
+      "timestamp": "2026-06-13T17:21:23.291203"
+    }
+  ],
+  "leaderboard": []
+}
