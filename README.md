@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1.5%20Flash-4285F4?logo=google&logoColor=white)
 
-⚡ **Live Demo (Google Cloud Run)**: [https://ecotrack-app-391319301858.us-central1.run.app](https://ecotrack-app-391319301858.us-central1.run.app)
+⚡ **Live Demo (Google Cloud Run)**: [https://ecotrack-app-295285969833.us-central1.run.app](https://ecotrack-app-295285969833.us-central1.run.app)
 
 ---
 
